@@ -1,3 +1,40 @@
 h1 {
     background-color: blanchedalmond;
+    font-size: 48px;
+    text-align: center;
+}
+img{
+    width: 300;
+    height: 300;
+}
+div h1{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+    font-size: 48px;
+}
+.play1 h1{
+    background-color: crimson;
+    color: white;
+    font-size: 48px;
+}
+.play2 h1{
+    background-color: orange;
+    color: white;
+    font-size: 48px;
+}
+.play3 h1{
+    background-color: blue;
+    color: white;
+    font-size: 48px;
+}
+.play4 h1{
+    background-color: yellow;
+    color: white;
+    font-size: 48px;
+}
+.play5 h1{
+    background-color: green;
+    color: white;
+    font-size: 48px;
 }
